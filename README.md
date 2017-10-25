@@ -1,7 +1,7 @@
 # Identifying-Clothing-Attributes
 Finetuning VGG-16 network 
 
-## [Clothing Attributes Dataset](http://huizhongchen.github.io/datasets.html#clothingattributedataset)
+#### [Clothing Attributes Dataset](http://huizhongchen.github.io/datasets.html#clothingattributedataset)
 
 ## Normalized Confusion Matrix
 <p align="center">
